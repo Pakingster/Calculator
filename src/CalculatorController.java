@@ -1,7 +1,7 @@
 /**
  * Maman 13: Date 05/12/2021
  * Question 2: Calculator
- * Alexey Vartanov - 321641086
+ * Alexey Vartanov
  */
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
